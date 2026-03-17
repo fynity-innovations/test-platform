@@ -16,21 +16,21 @@ You may also see any lint errors in the console.
 
 ### `run commands`
 
-cd Desktop
-npx create-react-app exam-portal
-cd exam-portal
-npm install react-router-dom bootstrap react-bootstrap
-npm start
+cd Desktop\
+npx create-react-app exam-portal\
+cd exam-portal\
+npm install react-router-dom bootstrap react-bootstrap\
+npm start\
 
 
 ###`user passwords`
 
-Admin:     admin / admin123
-Student:   student01 / pass123
-Student:   student02 / pass123
-Student:   student03 / pass123
-Student:   student04 / pass123
-Exam Code: CS401-XK9M
+Admin:     admin / admin123\
+Student:   student01 / pass123\
+Student:   student02 / pass123\
+Student:   student03 / pass123\
+Student:   student04 / pass123\
+Exam Code: CS401-XK9M\
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
